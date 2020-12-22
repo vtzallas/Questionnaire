@@ -1,0 +1,6 @@
+.SubQuestionsHidden {
+
+display: none ;
+transition: width 2s, height 4s;
+border: solid black;
+}
